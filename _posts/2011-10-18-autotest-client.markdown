@@ -2,7 +2,6 @@
 layout: default
 title: User docs
 category: users
-url: https://github.com/autotest/autotest/wiki/UserDocumentation
 ---
 
 <ul>
