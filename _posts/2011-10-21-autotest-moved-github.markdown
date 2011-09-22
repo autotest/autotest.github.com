@@ -6,8 +6,14 @@ categories: news
 ---
 
 <p>
-We have been using github for a while. So we decided to move our services to
-it. We are in the process of moving wiki and issue database to it. In the
-meantime, Check out our <a href="http://autotest.github.com/autotest/">new
-home page</a>.
+In order to reduce administrative work, and leverage the good infrastructure
+that we have been using to host our svn mirror, the autotest project now moved
+most of its infrastructure to github:
 </p>
+
+<ul>
+<li>Source code: Now autotest moved officialy to git.</li>
+<li>Wiki: The trac wiki was converted to reStructuredText, cleaned up and uploaded to git. Now the wiki is a git repo, that you can clone and edit offline. Also, you can install gollum and view your copy of the wiki offline.</li>
+<li>Issues database: We also moved the autotest issue tracker to github. Now make sure you make good use of it :)</li>
+<li>Downloads: Now we leverage the ability github has of automatically generating the project tarballs based on git branches.</li>
+</ul>
