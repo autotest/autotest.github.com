@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Documentation
-category: users
+category: kvm_autotest
 ---
