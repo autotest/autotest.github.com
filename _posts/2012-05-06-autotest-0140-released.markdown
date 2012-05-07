@@ -34,6 +34,12 @@ and 0.14.0:
 <li><a href="https://github.com/autotest/autotest/compare/0.13.1...0.14.0-rc1">https://github.com/autotest/autotest/compare/0.13.1...0.14.0-rc1</a></li>
 </ul>
 
+Also, a more complete release document can be found here:
+
+<ul>
+<li><a href="https://github.com/autotest/autotest/wiki/Release0.14-0">https://github.com/autotest/autotest/wiki/Release0.14-0</a></li>
+</ul>
+
 Please download, use and give your feedback!
 
 <h1>What is autotest?</h1>
